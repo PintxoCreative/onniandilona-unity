@@ -89,12 +89,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 38353ea0a170da3479d6584c9367eb70
-    m_Address: Norwegian (no)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cea787ab755d92943a115f2601b3bf6f
     m_Address: Russian (ru)
     m_ReadOnly: 1
