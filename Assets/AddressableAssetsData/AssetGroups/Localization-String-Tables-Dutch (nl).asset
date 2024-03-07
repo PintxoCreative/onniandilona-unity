@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-String-Tables-Finnish (fi)
+  m_Name: Localization-String-Tables-Dutch (nl)
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-String-Tables-Finnish (fi)
+  m_GroupName: Localization-String-Tables-Dutch (nl)
   m_Data:
     m_SerializedData: []
-  m_GUID: 8de526d84c69ea9408c6068916b1bc5f
+  m_GUID: 6121880a55d47284b94a2db920f76091
   m_SerializeEntries:
-  - m_GUID: 15873be867152b643949d2d777c06019
-    m_Address: StringLocalizationTable_fi
+  - m_GUID: 095f01f2e167f9f4685324d5733479b8
+    m_Address: StringLocalizationTable_nl
     m_ReadOnly: 1
     m_SerializedLabels:
-    - Locale-fi
+    - Locale-nl
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 279d0b479bbc69c48972b016e2c087d7, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 8eaba10649f79ee44ad1ff62ca3e115b, type: 2}
-    - {fileID: 11400000, guid: 877d9f74c194a2b428bf490b53a554b7, type: 2}
+    - {fileID: 11400000, guid: ac7d6b0ba51b1b94db57cc8f1e1d64ff, type: 2}
+    - {fileID: 11400000, guid: e20a466587ca8ee4b8f1f6ba0666cd79, type: 2}

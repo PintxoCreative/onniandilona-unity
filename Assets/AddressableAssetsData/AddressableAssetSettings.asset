@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: e822efbf56768954c878f748a5996d5f
   m_currentHash:
     serializedVersion: 2
-    Hash: 0fef276699b5dc4e2afc56bc41cde9ca
+    Hash: ab8e5159e688296ac4e5d5097dc5d078
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -51,6 +51,25 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cb445dbd0de37e940a1af904ac69c35b, type: 2}
   - {fileID: 11400000, guid: 5d73ef8869d664943b7b73bb88103435, type: 2}
   - {fileID: 11400000, guid: d22a4278f0a36be49b0c3243e0a09af8, type: 2}
+  - {fileID: 11400000, guid: 51e89ce19c684cf4fa0a47579ab3299c, type: 2}
+  - {fileID: 11400000, guid: 0a4f67f11f9662a44953c79478a3092a, type: 2}
+  - {fileID: 11400000, guid: ed69a4b63f4a0b84195306e0bc68808a, type: 2}
+  - {fileID: 11400000, guid: 7cd29aaa61e047247bc144372b32f1ea, type: 2}
+  - {fileID: 11400000, guid: cb86e96208c298241ad333ee978f10e2, type: 2}
+  - {fileID: 11400000, guid: f36a69fa24c73424ba737ff44b30e396, type: 2}
+  - {fileID: 11400000, guid: 669a4f0583a361c419837a9a77425c66, type: 2}
+  - {fileID: 11400000, guid: 4c5313a1818afef48ae7b765b845c2b2, type: 2}
+  - {fileID: 11400000, guid: 9bf7973106b2a514db96e8b93dee7bcd, type: 2}
+  - {fileID: 11400000, guid: 45a14b6653cf08c4a91b157b52b92c64, type: 2}
+  - {fileID: 11400000, guid: 0200f2046bda57f4d811f4e4d453f511, type: 2}
+  - {fileID: 11400000, guid: 6d94c1063a1636c4b9392e333421111f, type: 2}
+  - {fileID: 11400000, guid: a51e8127c5c875248b00664c02bd34c1, type: 2}
+  - {fileID: 11400000, guid: f555bddb88d9a2443a152170828987d1, type: 2}
+  - {fileID: 11400000, guid: cf5dd2d8197c333489bdbdf7df4fa33d, type: 2}
+  - {fileID: 11400000, guid: 51ba66687307aac4981c7afdd2433b11, type: 2}
+  - {fileID: 11400000, guid: 0d1fbcf7cf0ca1242b223fe70b749441, type: 2}
+  - {fileID: 11400000, guid: 031e5a5fc9b26244a824b683b114ef92, type: 2}
+  - {fileID: 11400000, guid: 186efb9781582384c8452f89f14fb66d, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -97,6 +116,25 @@ MonoBehaviour:
     - Locale-fi
     - Locale-ja
     - Preload
+    - Locale-zh-Hans
+    - Locale-zh-Hant
+    - Locale-da
+    - Locale-nl
+    - Locale-fr
+    - Locale-fr-CA
+    - Locale-de
+    - Locale-el
+    - Locale-it
+    - Locale-ko
+    - Locale-pt
+    - Locale-nb
+    - Locale-pt-BR
+    - Locale-pt-PT
+    - Locale-ru
+    - Locale-es
+    - Locale-es-MX
+    - Locale-sv
+    - Locale-tr
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 74aa136e67420564bbf2f1cfca9eb3d9, type: 2}
