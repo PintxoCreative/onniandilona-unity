@@ -19,7 +19,7 @@ MonoBehaviour:
   m_LocaleName: "Norwegian Bokm\xE5l (nb)"
   m_CustomFormatCultureCode: 
   m_UseCustomFormatter: 0
-  m_SortOrder: 15
+  m_SortOrder: 13
   references:
     version: 2
     RefIds: []
