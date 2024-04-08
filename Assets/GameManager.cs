@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public string CurrentLanguage;
+    public string CurrentLocale;
 
     private void Awake()
     {
@@ -24,8 +24,4 @@ public class GameManager : MonoBehaviour
 
     }
 
-    void UpdateLanguage()
-    {
-
-    }
 }
