@@ -17,7 +17,253 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: fc43a8cbb0e86f34586049e938e11ba3, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1735277219840
+    m_Localized: Glada former
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11679288983359488
+    m_Localized: "Formpussel f\xF6r sm\xE5barn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11679908825993216
+    m_Localized: "Inst\xE4llningar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680087453011968
+    m_Localized: "Byt spr\xE5k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680250439471104
+    m_Localized: Dela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680360665780224
+    m_Localized: "Om du gillar den h\xE4r appen, dela med dig till andra!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680447395598336
+    m_Localized: "L\xE4mna en recension p\xE5 App Store."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680545261293568
+    m_Localized: Skriv en recension
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680646583095296
+    m_Localized: "St\xF6d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680778145828864
+    m_Localized: "Vanliga fr\xE5gor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680875030056960
+    m_Localized: Dataskydd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680995108786176
+    m_Localized: 'Version:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681077623328768
+    m_Localized: 'Illustration:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681184766824448
+    m_Localized: 'Utveckling:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681303268495360
+    m_Localized: 'Ljud:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681367948857344
+    m_Localized: 'Om Pintxo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681438979395584
+    m_Localized: Representerar du en utbildningsinstitution?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681548551393280
+    m_Localized: Skaffa utbildningsversionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681630185132032
+    m_Localized: Om Onni & Ilona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681707163193344
+    m_Localized: "Sedan 2007 har Onni &amp; Ilona underh\xE5llt bebisar och barn
+      med en rad olika leksaker, kl\xE4der och barnb\xF6cker. Onni &amp; Ilona visuellt
+      tilltalande kort utm\xE4rker k\xE4rnan av minimalistisk Finsk design."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681790936027136
+    m_Localized: "L\xE4s mer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681857344442368
+    m_Localized: "V\xE4lj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681926898585600
+    m_Localized: "Du kan \xE4ndra detta senare i Inst\xE4llningar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682004472238080
+    m_Localized: ett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682066258530304
+    m_Localized: "tv\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682087997607936
+    m_Localized: tre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682105554964480
+    m_Localized: fyra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682136127246336
+    m_Localized: fem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682156704501760
+    m_Localized: sex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682469582802944
+    m_Localized: "\xD6ppna i App Store"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682605545361408
+    m_Localized: "\xD6ppna info"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682694854676480
+    m_Localized: "\xC5terst\xE4ll ett tidigare k\xF6p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682775297232896
+    m_Localized: "K\xF6p den fulla versionen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682852556312576
+    m_Localized: "K\xF6p den fulla versionen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682938497601536
+    m_Localized: "K\xF6p den fulla versionen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683053442502656
+    m_Localized: "F\xE5 tillg\xE5ng till alla 12 figurerna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683150108626944
+    m_Localized: "K\xF6p f\xF6r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683228034600960
+    m_Localized: "\xC5terst\xE4ll ett tidigare k\xF6p:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683361048563712
+    m_Localized: "\xC5terst\xE4ll"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683457622413312
+    m_Localized: Njuter du av appen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683524785803264
+    m_Localized: Spela med 9 mer figurer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683593492697088
+    m_Localized: "K\xF6p f\xF6r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683667920621568
+    m_Localized: Glada djur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683742918971392
+    m_Localized: "Visuell stimulering f\xF6r babyn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683833297833984
+    m_Localized: "K\xF6p inaktiverat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683907952250880
+    m_Localized: "Av n\xE5gon anledning har din enhets k\xF6pfunktion inaktiverats"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683982782828544
+    m_Localized: "Tack f\xF6r ditt k\xF6p!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684066341752832
+    m_Localized: "Du har nu tillg\xE5ng till alla 12 figurerna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684156309573632
+    m_Localized: "\xC5terst\xE4llning misslyckades"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684239704920064
+    m_Localized: "N\xE5got gick fel - se till att ditt k\xF6p gick igenom tidigare"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684676319383552
+    m_Localized: "\xC5terst\xE4llning lyckades"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684846880755712
+    m_Localized: "Du har igen tillg\xE5ng till alla 12 figurerna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684931882520576
+    m_Localized: "F\xF6r \xE5ldrarna 0-1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685024996069376
+    m_Localized: "F\xF6r \xE5ldrarna 0-3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685130658975744
+    m_Localized: "F\xF6r \xE5ldrarna 1-5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685229439029248
+    m_Localized: Utbildningsversionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685292890460160
+    m_Localized: "V\xE4lj sv\xE5righetsgrad f\xF6r att bygga figurer:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685379406368768
+    m_Localized: "F\xF6r sm\xE5barn (dra)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685468619214848
+    m_Localized: "F\xF6r bebisar (tryck)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685563150438400
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685600521687040
+    m_Localized: Nyheter
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

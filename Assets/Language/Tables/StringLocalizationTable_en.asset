@@ -19,7 +19,249 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 1735277219840
-    m_Localized: 
+    m_Localized: Happy Shapes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11679288983359488
+    m_Localized: Sensory puzzles for toddlers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11679908825993216
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680087453011968
+    m_Localized: Change language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680250439471104
+    m_Localized: Share
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680360665780224
+    m_Localized: If you like using this app, why not spread the word?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680447395598336
+    m_Localized: Please leave a review on the App Store.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680545261293568
+    m_Localized: Give review
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680646583095296
+    m_Localized: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680778145828864
+    m_Localized: Frequently asked questions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680875030056960
+    m_Localized: Privacy policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680995108786176
+    m_Localized: 'Version:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681077623328768
+    m_Localized: 'Illustration:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681184766824448
+    m_Localized: 'Development:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681303268495360
+    m_Localized: 'Sound:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681367948857344
+    m_Localized: 'About Pintxo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681438979395584
+    m_Localized: Do you represent an educational institution?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681548551393280
+    m_Localized: Get the educational edition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681630185132032
+    m_Localized: About Onni & Ilona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681707163193344
+    m_Localized: Since 2007, Onni &amp; Ilona has been delighting babies and young
+      children with a range of toys, clothing and childrens books. Onni &amp; Ilona
+      visual stimulation cards embody minimal Finnish design at its core.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681790936027136
+    m_Localized: Learn more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681857344442368
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681926898585600
+    m_Localized: You can change this later in Settings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682004472238080
+    m_Localized: one
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682066258530304
+    m_Localized: two
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682087997607936
+    m_Localized: three
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682105554964480
+    m_Localized: four
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682136127246336
+    m_Localized: five
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682156704501760
+    m_Localized: six
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682469582802944
+    m_Localized: Open on the App Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682605545361408
+    m_Localized: Open info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682694854676480
+    m_Localized: Restore an earlier purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682775297232896
+    m_Localized: Purchase full version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682852556312576
+    m_Localized: Purchase full version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682938497601536
+    m_Localized: Get the full version!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683053442502656
+    m_Localized: Gain access to all 12 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683150108626944
+    m_Localized: Buy for
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683228034600960
+    m_Localized: 'Restore an earlier purchase:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683361048563712
+    m_Localized: Restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683457622413312
+    m_Localized: Enjoying the app?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683524785803264
+    m_Localized: Play with 9 more characters!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683593492697088
+    m_Localized: Buy for
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683667920621568
+    m_Localized: Happy Animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683742918971392
+    m_Localized: Visual stimulation for babies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683833297833984
+    m_Localized: Purchases disabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683907952250880
+    m_Localized: For some reason your device has purchases disabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683982782828544
+    m_Localized: Thanks for your purchase!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684066341752832
+    m_Localized: You can now enjoy all 12 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684156309573632
+    m_Localized: Restore failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684239704920064
+    m_Localized: Something went wrong - make sure you made a purchase earlier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684676319383552
+    m_Localized: Restore successful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684846880755712
+    m_Localized: You can again enjoy all 12 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684931882520576
+    m_Localized: For ages 0-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685024996069376
+    m_Localized: For ages 0-3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685130658975744
+    m_Localized: For ages 1-5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685229439029248
+    m_Localized: Educational edition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685292890460160
+    m_Localized: 'Select your preferred mode for building characters:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685379406368768
+    m_Localized: Toddler mode (drag)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685468619214848
+    m_Localized: Baby mode (tap)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685563150438400
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685600521687040
+    m_Localized: What's new
     m_Metadata:
       m_Items: []
   references:

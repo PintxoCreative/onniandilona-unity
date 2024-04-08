@@ -19,7 +19,249 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 1735277219840
-    m_Localized: 
+    m_Localized: Iloiset palaset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11679288983359488
+    m_Localized: Muotojen pulmapeli taaperoille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11679908825993216
+    m_Localized: Asetukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680087453011968
+    m_Localized: Vaihda kieli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680250439471104
+    m_Localized: Jaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680360665780224
+    m_Localized: "Jos pidit t\xE4st\xE4 sovelluksesta, mikset levitt\xE4isi sanaa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680447395598336
+    m_Localized: "Kerro siit\xE4 muillekin App Storessa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680545261293568
+    m_Localized: Kirjoita arvio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680646583095296
+    m_Localized: Tuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680778145828864
+    m_Localized: "Usein kysytty\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680875030056960
+    m_Localized: Tietosuojaseloste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680995108786176
+    m_Localized: 'Versio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681077623328768
+    m_Localized: 'Kuvitus:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681184766824448
+    m_Localized: 'Toteutus:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681303268495360
+    m_Localized: "\xC4\xE4net:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681367948857344
+    m_Localized: 'Pintxo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681438979395584
+    m_Localized: Edustatko koulua tai muuta organisaatiota?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681548551393280
+    m_Localized: Lataa sovelluksen opetusversio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681630185132032
+    m_Localized: Onni & Ilona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681707163193344
+    m_Localized: "Vuodesta 2007 Onni &amp; Ilona on ilahduttanut vauvoja ja taaperoita
+      korteilla, kirjoilla, leluilla ja tekstiileill\xE4. Onnin &amp; Ilonan hauskat
+      katselukortit vauvoille edustavat selke\xE4\xE4 suomalaista designia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681790936027136
+    m_Localized: "Lue lis\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681857344442368
+    m_Localized: Valitse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11681926898585600
+    m_Localized: "Voit muuttaa moodia my\xF6hemmin Asetukset-osiosta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682004472238080
+    m_Localized: yksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682066258530304
+    m_Localized: kaksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682087997607936
+    m_Localized: kolme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682105554964480
+    m_Localized: "nelj\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682136127246336
+    m_Localized: viisi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682156704501760
+    m_Localized: kuusi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682469582802944
+    m_Localized: Avaa App Storessa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682605545361408
+    m_Localized: Avaa info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682694854676480
+    m_Localized: Palauta aiempi ostos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682775297232896
+    m_Localized: "Osta t\xE4ysversio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682852556312576
+    m_Localized: "Osta t\xE4ysversio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11682938497601536
+    m_Localized: "Osta t\xE4ysversio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683053442502656
+    m_Localized: "Ota k\xE4ytt\xF6\xF6n kaikki 12 hahmoa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683150108626944
+    m_Localized: Osta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683228034600960
+    m_Localized: 'Palauta aiempi ostos:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683361048563712
+    m_Localized: Palauta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683457622413312
+    m_Localized: "Viihtyyk\xF6 vauva?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683524785803264
+    m_Localized: "Hanki 9 hahmoa lis\xE4\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683593492697088
+    m_Localized: Osta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683667920621568
+    m_Localized: "Iloiset el\xE4imet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683742918971392
+    m_Localized: "Veike\xE4\xE4 virikett\xE4 vauvalle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683833297833984
+    m_Localized: Ostokset kielletty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683907952250880
+    m_Localized: "Jostain syyst\xE4 laitteellasi on ostokset kielletty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11683982782828544
+    m_Localized: Kiitokset ostoksestasi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684066341752832
+    m_Localized: "Voit nyt leikki\xE4 kaikilla 12 hahmolla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684156309573632
+    m_Localized: "Palautus ep\xE4onnistui"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684239704920064
+    m_Localized: "Jotain meni vikaan - varmistathan ett\xE4 ostos tehtiin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684676319383552
+    m_Localized: Palautus onnistui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684846880755712
+    m_Localized: "Voit taas leikki\xE4 kaikilla 12 hahmolla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684931882520576
+    m_Localized: 0-1 -vuotiaille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685024996069376
+    m_Localized: 0-3 -vuotiaille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685130658975744
+    m_Localized: 1-5 -vuotiaille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685229439029248
+    m_Localized: Opetusversio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685292890460160
+    m_Localized: 'Valitse haluamasi moodi hahmojen rakentamiseen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685379406368768
+    m_Localized: Taaperomoodi (veto)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685468619214848
+    m_Localized: Vauvamoodi (kosketus)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685563150438400
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11685600521687040
+    m_Localized: Uutta
     m_Metadata:
       m_Items: []
   references:
