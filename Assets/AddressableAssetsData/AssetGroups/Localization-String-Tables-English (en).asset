@@ -17,15 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 9221817de0cbd3142b7ccb6ca8dc9623
   m_SerializeEntries:
-  - m_GUID: ab253544e7e7cbd45a77e9d1b7374ca2
-    m_Address: StringLocalizationTable_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 336fa1d3721f6524aa63c3024abf731d
-    m_Address: Localisation_CVS_en
+  - m_GUID: cc7d8474d9a695b489a9cf711c945833
+    m_Address: CVS_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en

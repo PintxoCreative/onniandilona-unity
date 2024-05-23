@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CVS Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CVS
+  m_TableCollectionNameGuidString: af06febe74b8c2b43a72126d3d1002ed
+  m_Entries:
+  - m_Id: 136282705920
+    m_Key: app_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871744
+    m_Key: app_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871745
+    m_Key: info_section1_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871746
+    m_Key: info_section1_language_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871747
+    m_Key: info_section2_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871748
+    m_Key: info_section2_question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871749
+    m_Key: info_section2_callout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871750
+    m_Key: info_section2_review_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871751
+    m_Key: info_section3_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871752
+    m_Key: info_section3_faq_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871753
+    m_Key: info_section3_privacy_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871754
+    m_Key: info_section3_build
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871755
+    m_Key: info_section3_credits_illustration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871756
+    m_Key: info_section3_credits_development
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871757
+    m_Key: info_section3_credits_sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871758
+    m_Key: info_section3_pintxo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871759
+    m_Key: info_section3_edu_question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871760
+    m_Key: info_section3_edu_callout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871761
+    m_Key: info_section4_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871762
+    m_Key: info_section4_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871763
+    m_Key: info_section4_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871764
+    m_Key: mode_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871765
+    m_Key: mode_note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066048
+    m_Key: parentalgate_digit_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066049
+    m_Key: parentalgate_digit_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066050
+    m_Key: parentalgate_digit_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066051
+    m_Key: parentalgate_digit_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066052
+    m_Key: parentalgate_digit_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066053
+    m_Key: parentalgate_digit_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066054
+    m_Key: parentalgate_download
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066055
+    m_Key: parentalgate_info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066056
+    m_Key: parentalgate_restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066057
+    m_Key: parentalgate_upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066058
+    m_Key: parentalgate_upsell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066059
+    m_Key: popup_upgrade_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066060
+    m_Key: popup_upgrade_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066061
+    m_Key: popup_upgrade_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066062
+    m_Key: popup_upgrade_restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066063
+    m_Key: popup_upgrade_restore_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066064
+    m_Key: popup_upsell_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066065
+    m_Key: popup_upsell_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066066
+    m_Key: popup_upsell_bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066067
+    m_Key: promo_animals_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066068
+    m_Key: promo_animals_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066069
+    m_Key: purchase_buy_disabled_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066070
+    m_Key: purchase_buy_disabled_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066071
+    m_Key: purchase_buy_success_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066072
+    m_Key: purchase_buy_success_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066073
+    m_Key: purchase_restore_fail_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260352
+    m_Key: purchase_restore_fail_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260353
+    m_Key: purchase_restore_success_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260354
+    m_Key: purchase_restore_success_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260355
+    m_Key: shared_age_animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260356
+    m_Key: shared_age_home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260357
+    m_Key: shared_age_shapes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260358
+    m_Key: shared_edu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260359
+    m_Key: shared_mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260360
+    m_Key: shared_mode_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260361
+    m_Key: shared_mode_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260362
+    m_Key: shared_submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260363
+    m_Key: status_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260364
+    m_Key: status_text_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260365
+    m_Key: status_text_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260366
+    m_Key: status_bar
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7826546405336940546
+  references:
+    version: 2
+    RefIds:
+    - rid: 7826546405336940546
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716486120821

@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CVS_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: af06febe74b8c2b43a72126d3d1002ed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136282705920
+    m_Localized: Formas felizes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871744
+    m_Localized: "Puzzles sensoriais para beb\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871745
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871746
+    m_Localized: Alterar idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871747
+    m_Localized: Compartilhar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871748
+    m_Localized: "Se voc\xEA gosta deste app, por que n\xE3o espalhar a palavra?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871749
+    m_Localized: Por favor classifique-nos na App Store.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871750
+    m_Localized: "Deixe um coment\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871751
+    m_Localized: Suporte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871752
+    m_Localized: Perguntas frequentes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871753
+    m_Localized: "Pol\xEDtica de privacidade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871754
+    m_Localized: "Vers\xE3o:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871755
+    m_Localized: "Ilustra\xE7\xE3o:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871756
+    m_Localized: 'Desenvolvimento:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871757
+    m_Localized: 'Som:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871758
+    m_Localized: 'Sobre a Pintxo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871759
+    m_Localized: "Voc\xEA representa uma institui\xE7\xE3o de ensino?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871760
+    m_Localized: "Obtenha a edi\xE7\xE3o educacional"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871761
+    m_Localized: Sobre Onni & Ilona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871762
+    m_Localized: "Desde 2007, a Onni & Ilona vem encantando beb\xEAs e crian\xE7as
+      pequenas com uma gamade brinquedos, roupas e livros infantis. Oscart\xF5es
+      de estimula\xE7\xE3o visual da Onni & Ilona representam a ess\xEAncia do design
+      minimalista finland\xEAs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871763
+    m_Localized: Leia mais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871764
+    m_Localized: Aceitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871765
+    m_Localized: "Pode mud\xE1-lo mais tarde nos Ajustes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066048
+    m_Localized: um
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066049
+    m_Localized: dois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066050
+    m_Localized: "tr\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066051
+    m_Localized: quatro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066052
+    m_Localized: cinco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066053
+    m_Localized: seis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066054
+    m_Localized: Ver na App Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066055
+    m_Localized: "Informa\xE7\xF5es aberto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066056
+    m_Localized: Restaurar uma compra anterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066057
+    m_Localized: "Obtenha a vers\xE3o completa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066058
+    m_Localized: "Obtenha a vers\xE3o completa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066059
+    m_Localized: "Obtenha a vers\xE3o completa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066060
+    m_Localized: Obtenha acesso a todos os 12 personagens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066061
+    m_Localized: Compre por
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066062
+    m_Localized: 'Restaurar uma compra anterior:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066063
+    m_Localized: Restaurar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066064
+    m_Localized: "Voc\xEA gosta deste app?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066065
+    m_Localized: Jogar com 9 personagens mais!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066066
+    m_Localized: Compre por
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066067
+    m_Localized: Animais felizes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066068
+    m_Localized: "Estimula\xE7\xE3o visual para beb\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066069
+    m_Localized: Compras desativadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066070
+    m_Localized: "Por algum motivo as compras est\xE3o desativadas em seu dispositivo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066071
+    m_Localized: Obrigado pela sua compra!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066072
+    m_Localized: "Agora voc\xEA pode curtir todos os 12 personagens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066073
+    m_Localized: "Restaura\xE7\xE3o falhou"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260352
+    m_Localized: "Algo deu errado \u2013 certifique-se de j\xE1 ter realizado uma
+      compra anteriormente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260353
+    m_Localized: "Restaura\xE7\xE3o foi bem sucedida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260354
+    m_Localized: "Voc\xEA pode desfrutar de todos os 12 personagens novamente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260355
+    m_Localized: Para idades de 0 a 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260356
+    m_Localized: Para idades de 0 a 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260357
+    m_Localized: Para idades de 1 a 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260358
+    m_Localized: "Edi\xE7\xE3o educacional"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260359
+    m_Localized: 'Selecione o seu modo preferido para criar personagens:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260360
+    m_Localized: "Modo crian\xE7a (arrastar)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260361
+    m_Localized: "Modo beb\xEA (tocar)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260362
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260363
+    m_Localized: Novidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260364
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260365
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260366
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

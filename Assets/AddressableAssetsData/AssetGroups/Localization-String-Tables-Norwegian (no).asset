@@ -17,8 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 1b2e498599c834b48954744f5d418058
   m_SerializeEntries:
-  - m_GUID: 64910390832204043b0d378055507091
-    m_Address: Localisation_CVS_no
+  - m_GUID: 79b5f5e4f2ee9fe45a6001512753a449
+    m_Address: CVS_no
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-no

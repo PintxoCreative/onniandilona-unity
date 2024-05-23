@@ -15,11 +15,16 @@ MonoBehaviour:
   m_Identifier:
     m_Code: nb
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 7826546405336940544
   m_LocaleName: "Norwegian Bokm\xE5l (nb)"
   m_CustomFormatCultureCode: 
   m_UseCustomFormatter: 0
-  m_SortOrder: 14
+  m_SortOrder: 10
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 7826546405336940544
+      type: {class: FallbackLocale, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Locale: {fileID: 11400000, guid: 38353ea0a170da3479d6584c9367eb70, type: 2}

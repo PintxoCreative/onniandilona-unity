@@ -17,15 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 74f89c51a2715a4468b82a5c3addc1e3
   m_SerializeEntries:
-  - m_GUID: 2ed2adafadac9c54caadd24fa4771eec
-    m_Address: StringLocalizationTable_zh-Hans
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-zh-Hans
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fc521a4f6e08d994784cbd4bcd8b6ed0
-    m_Address: Localisation_CVS_zh-Hans
+  - m_GUID: df7bd34b91682774bb9cc1ce8bd56d3c
+    m_Address: CVS_zh-Hans
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-zh-Hans

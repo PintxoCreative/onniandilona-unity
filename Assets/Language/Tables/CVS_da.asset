@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CVS_da
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: da
+  m_SharedData: {fileID: 11400000, guid: af06febe74b8c2b43a72126d3d1002ed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136282705920
+    m_Localized: Glade former
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871744
+    m_Localized: Sansespil til tumlinger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871745
+    m_Localized: Indstillinger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871746
+    m_Localized: Skift sprog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871747
+    m_Localized: Del
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871748
+    m_Localized: Hvis du kan lide denne app delen med andre!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871749
+    m_Localized: "Forlad en anmeldelse p\xE5 App Store."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871750
+    m_Localized: Skriv en anmeldelse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871751
+    m_Localized: "St\xF8tte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871752
+    m_Localized: "Ofte stillede sp\xF8rgsm\xE5l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871753
+    m_Localized: Fortrolighedspolitik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871754
+    m_Localized: 'Version:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871755
+    m_Localized: 'Illustration:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871756
+    m_Localized: 'Udvikling:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871757
+    m_Localized: 'Lyd:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871758
+    m_Localized: 'Om Pintxo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871759
+    m_Localized: "Repr\xE6senterer du en uddannelsesinstitution?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871760
+    m_Localized: "F\xE5 l\xE6ringsudgaven"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871761
+    m_Localized: Om Onni & Ilona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871762
+    m_Localized: "Onni & Ilona har siden 2007 gl\xE6det sp\xE6db\xF8rn og sm\xE5
+      b\xF8rn med et udvalg af leget\xF8j, t\xF8j og b\xF8rneb\xF8ger. Onni & Ilona
+      visuelle stimulanskort er et perfekt eksempel p\xE5 minimalt finsk design."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871763
+    m_Localized: "L\xE6s mere"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871764
+    m_Localized: "V\xE6lg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871765
+    m_Localized: "Du kan \xE6ndre dette senere i Indstillinger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066048
+    m_Localized: en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066049
+    m_Localized: to
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066050
+    m_Localized: tre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066051
+    m_Localized: fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066052
+    m_Localized: fem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066053
+    m_Localized: seks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066054
+    m_Localized: "\xC5ben i App Store"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066055
+    m_Localized: "\xC5ben info"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066056
+    m_Localized: "Gendan et tidligere k\xF8b"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066057
+    m_Localized: "K\xF8b den fulde version"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066058
+    m_Localized: "K\xF8b den fulde version"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066059
+    m_Localized: "K\xF8b den fulde version!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066060
+    m_Localized: "F\xE5 adgang til alle 12 karakterer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066061
+    m_Localized: "K\xF8b for"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066062
+    m_Localized: "Gendan et tidligere k\xF8b:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066063
+    m_Localized: Gendan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066064
+    m_Localized: Nyd appen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066065
+    m_Localized: Spil med 9 mere karakter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066066
+    m_Localized: "K\xF8b for"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066067
+    m_Localized: Glade dyr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066068
+    m_Localized: Visuel stimulation til babyer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066069
+    m_Localized: "K\xF8b deaktiveret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066070
+    m_Localized: "Af en eller anden grund er k\xF8b sl\xE5et fra p\xE5 din enhed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066071
+    m_Localized: "Tak for dit k\xF8b!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066072
+    m_Localized: Du har nu adgang til alle 12 karakterer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066073
+    m_Localized: Gendan mislykkedes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260352
+    m_Localized: "Noget gik galt - v\xE6r sikker p\xE5, at du foretog et k\xF8b f\xF8r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260353
+    m_Localized: Gendannelse var vellykket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260354
+    m_Localized: Du har adgang til alle 12 karakterer igen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260355
+    m_Localized: For alderen 0-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260356
+    m_Localized: For alderen 0-3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260357
+    m_Localized: For alderen 1-5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260358
+    m_Localized: "L\xE6ringsudgave"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260359
+    m_Localized: "V\xE6lg din foretrukne m\xE5de at lave dine karaktere p\xE5:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260360
+    m_Localized: "Tumlinge-tilstand (Tr\xE6k)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260361
+    m_Localized: "Baby-tilstand (R\xF8r)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260362
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260363
+    m_Localized: Nyheder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260364
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260365
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260366
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

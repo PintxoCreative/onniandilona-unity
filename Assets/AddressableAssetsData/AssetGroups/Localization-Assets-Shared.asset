@@ -17,13 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 91c5db2312b5cfa43a10ac22c4a8606b
   m_SerializeEntries:
-  - m_GUID: fc43a8cbb0e86f34586049e938e11ba3
-    m_Address: Assets/Language/Tables/StringLocalizationTable Shared Data.asset
-    m_ReadOnly: 1
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5eb485904c2a4204790ae116f2015ffb
-    m_Address: Assets/Language/Tables/Localisation_CVS Shared Data.asset
+  - m_GUID: af06febe74b8c2b43a72126d3d1002ed
+    m_Address: Assets/Language/Tables/CVS Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

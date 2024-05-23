@@ -119,38 +119,14 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b97f814ad520d88449e5166e1308c06e
-    m_Address: French (Canada) (fr-CA)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9bd6ae5376de25e45a28ee4a63efc612
-    m_Address: Portuguese (Brazil) (pt-BR)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e7f7180ef7b9e734eba0c7941dfec0dd
-    m_Address: Portuguese (Portugal) (pt-PT)
+  - m_GUID: 38353ea0a170da3479d6584c9367eb70
+    m_Address: Norwegian (no)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8351840616771fa45bd6b6c8cb34f54d
     m_Address: "Norwegian Bokm\xE5l (nb)"
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 37c6d45f30bcb954c9de98f85f4f669e
-    m_Address: Spanish (Mexico) (es-MX)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 38353ea0a170da3479d6584c9367eb70
-    m_Address: Norwegian (no)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale

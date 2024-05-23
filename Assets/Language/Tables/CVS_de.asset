@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CVS_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: af06febe74b8c2b43a72126d3d1002ed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136282705920
+    m_Localized: "Fr\xF6hliche Formen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871744
+    m_Localized: "Formenpuzzle f\xFCr Kleinkinder"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871745
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871746
+    m_Localized: "Sprache \xE4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871747
+    m_Localized: Teilen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871748
+    m_Localized: Wenn du diese App magst, warum nicht weiterempfehlen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871749
+    m_Localized: Schreibe doch bitte eine Bewertung im App Store.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871750
+    m_Localized: Bewertung schreiben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871751
+    m_Localized: "Unterst\xFCtzung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871752
+    m_Localized: "H\xE4ufig gestellte Fragen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871753
+    m_Localized: Datenschutzbestimmungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871754
+    m_Localized: 'Version:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871755
+    m_Localized: 'Illustration:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871756
+    m_Localized: 'Entwicklung:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871757
+    m_Localized: 'Audio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871758
+    m_Localized: "\xDCber Pintxo:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871759
+    m_Localized: Vertreten Sie eine Bildungseinrichtung?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871760
+    m_Localized: Holen Sie sich die Bildungsversion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871761
+    m_Localized: "\xDCber Onni & Ilona"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871762
+    m_Localized: "Seit 2007 begeistert Onni & Ilona Babys und kleine Kinder mit verschiedenen
+      Spielzeugen, Kleidung und Kinderb\xFCchern. Onni & Ilona's Sehf\xF6rderkarten
+      verk\xF6rpern minimalistisches Finnisches Design."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871763
+    m_Localized: Weiterlesen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871764
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871765
+    m_Localized: "Sie k\xF6nnen das sp\xE4ter in den Einstellungen \xE4ndern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066048
+    m_Localized: eins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066049
+    m_Localized: zwei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066050
+    m_Localized: drei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066051
+    m_Localized: vier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066052
+    m_Localized: "f\xFCnf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066053
+    m_Localized: sechs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066054
+    m_Localized: "Im App Store \xF6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066055
+    m_Localized: "\xD6ffnen Info"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066056
+    m_Localized: Wiederherstellen eines Kaufs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066057
+    m_Localized: Schalte die Vollversion frei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066058
+    m_Localized: Schalte die Vollversion frei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066059
+    m_Localized: Hol dir die Vollversion!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066060
+    m_Localized: Erhalte Zugriff auf alle 12 Figuren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066061
+    m_Localized: "Kaufe f\xFCr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066062
+    m_Localized: 'Wiederherstellen eines Kaufs:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066063
+    m_Localized: Wiederherstellung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066064
+    m_Localized: "Gef\xE4llt Ihnen das App?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066065
+    m_Localized: Spiele mit 9 weiteren Figuren!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066066
+    m_Localized: "Kaufe f\xFCr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066067
+    m_Localized: "Fr\xF6hliche Tiere"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066068
+    m_Localized: Baby sensorische Stimulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066069
+    m_Localized: "Eink\xE4ufe deaktiviert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066070
+    m_Localized: "Aus irgendeinem Grund sind Eink\xE4ufe auf deinem Ger\xE4t deaktiviert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066071
+    m_Localized: "Danke f\xFCr deinen Einkauf!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066072
+    m_Localized: "Du kannst dich jetzt \xFCber alle 12 Figuren freuen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066073
+    m_Localized: Die Wiederherstellung ist fehlgeschlagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260352
+    m_Localized: "Etwas ist schief gegangen - bitte stelle sicher, dass du vorher
+      den Einkauf get\xE4tigt hast"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260353
+    m_Localized: Die Wiederherstellung war erfolgreich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260354
+    m_Localized: "Du kannst dich jetzt wieder \xFCber alle 12 Figuren freuen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260355
+    m_Localized: "F\xFCr Alter 0-1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260356
+    m_Localized: "F\xFCr Alter 0-3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260357
+    m_Localized: "F\xFCr Alter 1-5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260358
+    m_Localized: Bildungsversion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260359
+    m_Localized: "W\xE4hle deinen bevorzugten Modus zum Erstellen von Figuren aus:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260360
+    m_Localized: Kleinkind-Modus (Ziehen)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260361
+    m_Localized: Baby-Modus (Tippen)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260362
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260363
+    m_Localized: Neuheiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260364
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260365
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260366
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

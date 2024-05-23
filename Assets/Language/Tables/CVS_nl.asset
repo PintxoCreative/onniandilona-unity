@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CVS_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: af06febe74b8c2b43a72126d3d1002ed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136282705920
+    m_Localized: Vrolijke vormen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871744
+    m_Localized: Vormpuzzels voor kleuters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871745
+    m_Localized: Instellingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871746
+    m_Localized: Wijzig taal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871747
+    m_Localized: Delen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871748
+    m_Localized: Als je van deze app, delen met anderen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871749
+    m_Localized: Laat een beoordeling achter in de App Store.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871750
+    m_Localized: Laat een beoordeling achter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871751
+    m_Localized: Ondersteuning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871752
+    m_Localized: Veelgestelde vragen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871753
+    m_Localized: Privacybeleid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871754
+    m_Localized: 'Versie:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871755
+    m_Localized: 'Illustratie:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871756
+    m_Localized: 'Ontwikkeling:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871757
+    m_Localized: 'Audio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871758
+    m_Localized: 'Over Pintxo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871759
+    m_Localized: Vertegenwoordig je een onderwijsinstelling?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871760
+    m_Localized: Download dan de educatieve-editie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871761
+    m_Localized: Over Onni & Ilona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871762
+    m_Localized: Sinds 2007 heeft Onni & Ilona baby's en jonge kinderen verblijd
+      met een reeks speelgoed, kleding en kinderboeken. De visuele stimuleringskaarten
+      van Onni & Ilona belichamen de kern van minimalistisch Fins ontwerp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871763
+    m_Localized: Lees verder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871764
+    m_Localized: Kiezen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136307871765
+    m_Localized: Je kunt dit later wijzigen in Instellingen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066048
+    m_Localized: een
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066049
+    m_Localized: twee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066050
+    m_Localized: drie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066051
+    m_Localized: vier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066052
+    m_Localized: vijf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066053
+    m_Localized: zes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066054
+    m_Localized: Openen in de App Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066055
+    m_Localized: Info openen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066056
+    m_Localized: Herstel een eerdere aankoop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066057
+    m_Localized: Koop de volledige versie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066058
+    m_Localized: Koop de volledige versie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066059
+    m_Localized: Koop de volledige versie!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066060
+    m_Localized: Krijg toegang tot alle 12 personages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066061
+    m_Localized: Koop voor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066062
+    m_Localized: 'Herstel een eerdere aankoop:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066063
+    m_Localized: Herstel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066064
+    m_Localized: Bevalt de app?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066065
+    m_Localized: Speel met nog 9 personages!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066066
+    m_Localized: Koop voor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066067
+    m_Localized: Vrolijke dieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066068
+    m_Localized: Visuele stimulatie voor baby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066069
+    m_Localized: Kopen uitgeschakeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066070
+    m_Localized: Om een of andere reden heeft je apparaat aankopen uitgeschakeld
+      staan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066071
+    m_Localized: Bedankt voor je aankoop!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066072
+    m_Localized: Je hebt nu toegang tot alle 12 personages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136312066073
+    m_Localized: Herstellen mislukt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260352
+    m_Localized: Er ging iets fout, zorg dat je zeker weet dat je een aankoop gedaan
+      hebt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260353
+    m_Localized: Herstel was succesvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260354
+    m_Localized: Je hebt weer toegang tot alle 12 personages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260355
+    m_Localized: Voor 0-1 jaar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260356
+    m_Localized: Voor 0-3 jaar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260357
+    m_Localized: Voor 1-5 jaar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260358
+    m_Localized: Educatieve-editie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260359
+    m_Localized: 'Kies de gewenste mode voor het maken van personages:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260360
+    m_Localized: Kleuter mode (sleep)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260361
+    m_Localized: Baby mode (tik)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260362
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260363
+    m_Localized: Nieuw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260364
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260365
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136316260366
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
