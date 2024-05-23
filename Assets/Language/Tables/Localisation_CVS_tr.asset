@@ -19,247 +19,245 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 3505504194560
-    m_Localized: 
+    m_Localized: "Mutlu \u015Eekiller"
     m_Metadata:
       m_Items: []
   - m_Id: 3505554526208
-    m_Localized: 
+    m_Localized: "\xC7ocuklar i\xE7in duyusal bulmaca"
     m_Metadata:
       m_Items: []
   - m_Id: 3505558720512
-    m_Localized: 
+    m_Localized: Ayarlar
     m_Metadata:
       m_Items: []
   - m_Id: 3505558720513
-    m_Localized: 
+    m_Localized: "Dili de\u011Fi\u015Ftir"
     m_Metadata:
       m_Items: []
   - m_Id: 3505562914816
-    m_Localized: 
+    m_Localized: "Payla\u015F"
     m_Metadata:
       m_Items: []
   - m_Id: 3505562914817
-    m_Localized: 
+    m_Localized: "Bu uygulamay\u0131 kullanmaktan ho\u015Fland\u0131ysan\u0131z,
+      neden bunu payla\u015Fmayas\u0131n\u0131z?"
     m_Metadata:
       m_Items: []
   - m_Id: 3505562914818
-    m_Localized: 
+    m_Localized: "App Store'a bir de\u011Ferlendirme b\u0131rak."
     m_Metadata:
       m_Items: []
   - m_Id: 3505562914819
-    m_Localized: 
+    m_Localized: "De\u011Ferlendirme yap"
     m_Metadata:
       m_Items: []
   - m_Id: 3505562914820
-    m_Localized: 
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3505567109120
-    m_Localized: 
+    m_Localized: Destek
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109121
-    m_Localized: 
+    m_Localized: "Gizlilik politikas\u0131"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109122
-    m_Localized: 
+    m_Localized: 'Versiyon:'
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109123
-    m_Localized: 
+    m_Localized: "ll\xFCstrasyon:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109124
-    m_Localized: 
+    m_Localized: "Geli\u015Ftirme:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109125
-    m_Localized: 
+    m_Localized: 'Ses:'
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109126
-    m_Localized: 
+    m_Localized: "Pintxo hakk\u0131nda:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109127
-    m_Localized: 
+    m_Localized: "Bir e\u011Fitim kurumunu mu temsil ediyorsunuz?"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109128
-    m_Localized: 
+    m_Localized: "E\u011Fitim s\xFCr\xFCm\xFCn\xFC edinin"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109129
-    m_Localized: 
+    m_Localized: "Onni & Ilona hakk\u0131nda"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109130
-    m_Localized: 
+    m_Localized: "2007'den beri, Onni & Ilona, \xE7e\u015Fitli oyuncak, k\u0131yafet
+      ve \xE7ocuk kitaplar\u0131 ile bebekleri ve k\xFC\xE7\xFCk \xE7ocuklar\u0131
+      sevindiriyor. Onni & Ilona g\xF6rsel uyar\u0131m kartlar\u0131 \xE7ekirde\u011Finde
+      minimal Fin tasar\u0131m\u0131n\u0131 bar\u0131nd\u0131r\u0131yor."
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109131
-    m_Localized: 
+    m_Localized: "Devam\u0131n\u0131 oku"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109132
-    m_Localized: 
+    m_Localized: "Se\xE7"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109133
-    m_Localized: 
+    m_Localized: "Bunu daha sonra Ayarlar'dan de\u011Fi\u015Ftirebilirsiniz."
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109134
-    m_Localized: 
+    m_Localized: bir
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109135
-    m_Localized: 
+    m_Localized: iki
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109136
-    m_Localized: 
+    m_Localized: "\xFC\xE7"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109137
-    m_Localized: 
+    m_Localized: "d\xF6rt"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109138
-    m_Localized: 
+    m_Localized: "be\u015F"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109139
-    m_Localized: 
+    m_Localized: "alt\u0131"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109140
-    m_Localized: 
+    m_Localized: "App Store'da A\xE7"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109141
-    m_Localized: 
+    m_Localized: Bilgi
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109142
-    m_Localized: 
+    m_Localized: "Eski bir sat\u0131n al\u0131m\u0131 yenile"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109143
-    m_Localized: 
+    m_Localized: "Tam s\xFCr\xFCm\xFC sat\u0131n al"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109144
-    m_Localized: 
+    m_Localized: "Tam s\xFCr\xFCm\xFC sat\u0131n al"
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109145
-    m_Localized: 
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3505571303424
-    m_Localized: 
+    m_Localized: "Tam s\xFCr\xFCm\xFC sat\u0131n al!"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303425
-    m_Localized: 
+    m_Localized: "\u015Eimdi sat\u0131n al:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303426
-    m_Localized: 
+    m_Localized: "Eski bir sat\u0131n al\u0131m\u0131 yenile:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303427
-    m_Localized: 
+    m_Localized: Yenile
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303428
-    m_Localized: 
+    m_Localized: "Uygulamay\u0131 sevdiniz mi?"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303429
-    m_Localized: 
+    m_Localized: 9 karakter daha oyna!
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303430
-    m_Localized: 
+    m_Localized: "\u015Eimdi sat\u0131n al:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303431
-    m_Localized: 
+    m_Localized: Mutlu Hayvanlar
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303432
-    m_Localized: 
+    m_Localized: "Bebekler i\xE7in g\xF6rsel uyar\u0131m"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303433
-    m_Localized: 
+    m_Localized: "Sat\u0131n al\u0131mlar devre d\u0131\u015F\u0131"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303434
-    m_Localized: 
+    m_Localized: "Baz\u0131 nedenlerden dolay\u0131 cihaz\u0131n\u0131zda sat\u0131n
+      alma i\u015Flemleri etkisiz k\u0131l\u0131nm\u0131\u015F"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303435
-    m_Localized: 
+    m_Localized: "Sat\u0131n ald\u0131\u011F\u0131n\u0131z i\xE7in te\u015Fekk\xFCrler!"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303436
-    m_Localized: 
+    m_Localized: "\u015Eimdi 12 karakterin t\xFCm\xFCn\xFCn tad\u0131n\u0131 \xE7\u0131karabilirsin"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303437
-    m_Localized: 
+    m_Localized: "Yenileme ba\u015Far\u0131s\u0131z oldu"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303438
-    m_Localized: 
+    m_Localized: "Bir \u015Feyler yanl\u0131\u015F gitti - daha \xF6nce bir sat\u0131n
+      alma yapt\u0131\u011F\u0131n\u0131zdan emin olun"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303439
-    m_Localized: 
+    m_Localized: "Yenileme ba\u015Far\u0131l\u0131"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303440
-    m_Localized: 
+    m_Localized: "12 karakterin t\xFCm\xFCn\xFCn tad\u0131n\u0131 tekrar \xE7\u0131karabilirsin"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303441
-    m_Localized: 
+    m_Localized: "0-1 ya\u015F aras\u0131 i\xE7in"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303442
-    m_Localized: 
+    m_Localized: "0-3 ya\u015F aras\u0131 i\xE7in"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303443
-    m_Localized: 
+    m_Localized: "1-5 ya\u015F aras\u0131 i\xE7in"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303444
-    m_Localized: 
+    m_Localized: "E\u011Fitim s\xFCr\xFCm\xFC"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303445
-    m_Localized: 
+    m_Localized: "Karakterleri olu\u015Fturmak i\xE7in tercih etti\u011Fin modu se\xE7:"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303446
-    m_Localized: 
+    m_Localized: "\xC7ocuk modu (s\xFCr\xFCkle)"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303447
-    m_Localized: 
+    m_Localized: Bebek modu (dokun)
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303448
-    m_Localized: 
+    m_Localized: OK
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303449
-    m_Localized: 
+    m_Localized: Yenilikler
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303450
@@ -272,6 +270,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3505571303452
     m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13830611426152448
+    m_Localized: "S\u0131k\xE7a sorulan sorular"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13830611472289792
+    m_Localized: "12 karakterin t\xFCm\xFCne eri\u015Fim kazan\u0131n"
     m_Metadata:
       m_Items: []
   references:

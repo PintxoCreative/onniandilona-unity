@@ -54,10 +54,6 @@ MonoBehaviour:
     m_Localized: "St\xF6d"
     m_Metadata:
       m_Items: []
-  - m_Id: 3505567109120
-    m_Localized: "Vanliga fr\xE5gor"
-    m_Metadata:
-      m_Items: []
   - m_Id: 3505567109121
     m_Localized: Dataskydd
     m_Metadata:
@@ -95,9 +91,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109130
-    m_Localized: "Sedan 2007 har Onni &amp; Ilona underh\xE5llt bebisar och barn
-      med en rad olika leksaker, kl\xE4der och barnb\xF6cker. Onni &amp; Ilona visuellt
-      tilltalande kort utm\xE4rker k\xE4rnan av minimalistisk Finsk design."
+    m_Localized: "Sedan 2007 har Onni & Ilona underh\xE5llt bebisar och barn med
+      en rad olika leksaker, kl\xE4der och barnb\xF6cker. Onni & Ilona visuellt tilltalande
+      kort utm\xE4rker k\xE4rnan av minimalistisk Finsk design."
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109131
@@ -158,10 +154,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3505567109145
     m_Localized: "K\xF6p den fulla versionen!"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3505571303424
-    m_Localized: "F\xE5 tillg\xE5ng till alla 12 figurerna"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303425
@@ -274,6 +266,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3505571303452
     m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13830611426152448
+    m_Localized: "Vanliga fr\xE5gor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13830611472289792
+    m_Localized: "F\xE5 tillg\xE5ng till alla 12 figurerna"
     m_Metadata:
       m_Items: []
   references:

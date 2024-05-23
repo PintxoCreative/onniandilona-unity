@@ -54,10 +54,6 @@ MonoBehaviour:
     m_Localized: Tuki
     m_Metadata:
       m_Items: []
-  - m_Id: 3505567109120
-    m_Localized: "Usein kysytty\xE4"
-    m_Metadata:
-      m_Items: []
   - m_Id: 3505567109121
     m_Localized: Tietosuojaseloste
     m_Metadata:
@@ -95,8 +91,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109130
-    m_Localized: "Vuodesta 2007 Onni &amp; Ilona on ilahduttanut vauvoja ja taaperoita
-      korteilla, kirjoilla, leluilla ja tekstiileill\xE4. Onnin &amp; Ilonan hauskat
+    m_Localized: "Vuodesta 2007 Onni & Ilona on ilahduttanut vauvoja ja taaperoita
+      korteilla, kirjoilla, leluilla ja tekstiileill\xE4. Onnin & Ilonan hauskat
       katselukortit vauvoille edustavat selke\xE4\xE4 suomalaista designia."
     m_Metadata:
       m_Items: []
@@ -158,10 +154,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3505567109145
     m_Localized: "Osta t\xE4ysversio"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3505571303424
-    m_Localized: "Ota k\xE4ytt\xF6\xF6n kaikki 12 hahmoa"
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303425
@@ -274,6 +266,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3505571303452
     m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13830611426152448
+    m_Localized: "Usein kysytty\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13830611472289792
+    m_Localized: "Ota k\xE4ytt\xF6\xF6n kaikki 12 hahmoa"
     m_Metadata:
       m_Items: []
   references:

@@ -51,8 +51,8 @@ MonoBehaviour:
     m_Key: info_section3_title
     m_Metadata:
       m_Items: []
-  - m_Id: 3505567109120
-    m_Key: info_section3 faq_bar
+  - m_Id: 13830611426152448
+    m_Key: info_section3_faq_bar
     m_Metadata:
       m_Items: []
   - m_Id: 3505567109121
@@ -155,8 +155,8 @@ MonoBehaviour:
     m_Key: popup_upgrade_title
     m_Metadata:
       m_Items: []
-  - m_Id: 3505571303424
-    m_Key: popup_upgrade
+  - m_Id: 13830611472289792
+    m_Key: popup_upgrade_text
     m_Metadata:
       m_Items: []
   - m_Id: 3505571303425
